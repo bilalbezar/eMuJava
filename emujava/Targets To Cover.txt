@@ -1,0 +1,8 @@
+To Do's
+=======
+
+0. log iteration number when target is achieved. Do it in both implementations.
+1. arrange test cases before crossover
+2. arrange test cases before mutation and mutate on remaining 80% of test cases. Do it in both implementations.
+
+
